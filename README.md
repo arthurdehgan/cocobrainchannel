@@ -12,5 +12,5 @@ Bellemare-Pepin Antoine,
 Dehgan Arthur,
 Harel Yann,
 Saive Anne-Lise,
-Jerbi KArim.
+Jerbi Karim.
 
