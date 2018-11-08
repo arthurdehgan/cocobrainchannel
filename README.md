@@ -6,7 +6,7 @@ CocoBrainChannel is a project that allows real-time musical exploration of menta
 
 ## Instructions
 
-### Get python ready
+#### Get python ready
 
 Requires python 3.5+
 
@@ -22,12 +22,12 @@ list of packages:
 - scipy
 - xgboost
 
-### Set some parameters
+#### Set some parameters
 
 You will need to set the ip addresses in "params.py" with SIPADDR the broadcast address of your network and CIPADDR the IP of the machine  to which you send the OSC data (eg. machine learning predictions)
 If you run everything on single machine, set both to "127.0.0.1"
 
-### Start the experience on someone
+#### Start the experience on someone
 
 Start the "calibration.sh" script with the required arguments :
 - Subject number (for file name if data is saved)
