@@ -42,8 +42,7 @@ for file in os.listdir(PATH):
 
 dataf = np.concatenate(dataf, axis=0)
 
-# clf = XGBClassifier()
-clf = LR()
+clf = ADB()
 cv = StratifiedShuffleSplit(n_splits=10)
 scores = cross_val_score(cv=cv,
                          estimator=clf,
