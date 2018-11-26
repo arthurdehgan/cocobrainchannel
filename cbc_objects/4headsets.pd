@@ -1,0 +1,57 @@
+#N canvas 276 132 943 556 10;
+#X obj 266 184 r ratioBAz;
+#X obj 437 186 r ratioBAz2;
+#X obj 359 251 spigot;
+#X obj 398 230 tgl 15 0 empty empty empty 17 7 0 10 -262144 -1 -1 1
+1;
+#X obj 168 165 expr if ($f1 == 1 \, 1 \, 0);
+#X obj 265 249 spigot;
+#X obj 304 228 tgl 15 0 empty empty empty 17 7 0 10 -262144 -1 -1 0
+1;
+#X obj 345 164 expr if ($f1 == 2 \, 1 \, 0);
+#X obj 536 250 spigot;
+#X obj 575 229 tgl 15 0 empty empty empty 17 7 0 10 -262144 -1 -1 0
+1;
+#X obj 522 163 expr if ($f1 == 3 \, 1 \, 0);
+#X obj 712 250 spigot;
+#X obj 751 229 tgl 15 0 empty empty empty 17 7 0 10 -262144 -1 -1 0
+1;
+#X floatatom 265 278 5 0 0 0 - - -, f 5;
+#X floatatom 359 277 5 0 0 0 - - -, f 5;
+#X floatatom 534 280 5 0 0 0 - - -, f 5;
+#X floatatom 717 280 5 0 0 0 - - -, f 5;
+#X obj 698 163 expr if ($f1 == 4 \, 1 \, 0);
+#X obj 614 185 r ratioBAz3;
+#X obj 790 185 r ratioBAz4;
+#X obj 376 124 r \$1;
+#X obj 360 400 outlet;
+#X obj 488 397 outlet;
+#X obj 115 242 loadbang;
+#X msg 144 277 -0.44;
+#X connect 0 0 5 0;
+#X connect 1 0 2 0;
+#X connect 2 0 14 0;
+#X connect 3 0 2 1;
+#X connect 4 0 6 0;
+#X connect 5 0 13 0;
+#X connect 6 0 5 1;
+#X connect 7 0 3 0;
+#X connect 8 0 15 0;
+#X connect 9 0 8 1;
+#X connect 10 0 9 0;
+#X connect 11 0 16 0;
+#X connect 12 0 11 1;
+#X connect 13 0 21 0;
+#X connect 14 0 21 0;
+#X connect 15 0 21 0;
+#X connect 16 0 21 0;
+#X connect 17 0 12 0;
+#X connect 18 0 8 0;
+#X connect 19 0 11 0;
+#X connect 20 0 4 0;
+#X connect 20 0 7 0;
+#X connect 20 0 10 0;
+#X connect 20 0 17 0;
+#X connect 20 0 22 0;
+#X connect 23 0 24 0;
+#X connect 24 0 13 0;
