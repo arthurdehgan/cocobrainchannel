@@ -42,10 +42,10 @@ Have Fun!
 
 ## Credits
 
-CocoLab (UdeM, Montreal, Quebec, CA).
-Bellemare-Pepin Antoine,
-Dehgan Arthur,
-Harel Yann,
-Saive Anne-Lise,
-Jerbi Karim.
+CocoLab (UdeM, Montreal, Quebec, CA).  
+Bellemare-Pepin Antoine,  
+Dehgan Arthur,  
+Harel Yann,  
+Saive Anne-Lise,  
+Jerbi Karim.  
 
