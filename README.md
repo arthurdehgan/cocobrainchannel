@@ -1,4 +1,40 @@
-# cocobrainchannel
+# CoCo Brain Channel
+
+## Send Muse data to puredata :
+1. Install MuseDirect (Windaube10 only)
+
+2. Pair Muse headband and activate headband in MuseDirect
+
+3. Add new OSC output to an UDP port (e.g. 5091) add check all EEG features. Activate sending to this port
+
+4. Run cmd.exe
+
+5. Run the following command :
+```muse-player -l udp:5091 -s osc.udp://localhost:5001```
+
+## Run cbc_harmonizer :
+1. Install Pure data 
+
+2. Add the following librairies to your pd path :
+- Cyclone
+- list-abs
+- mrpeach
+- iemlib
+
+3. Add cbc_objects to your pd path
+
+## Use cbc_harmonizer :
+1. Open the cbc_harmonizer patch and activate the DSP
+
+2. Before doing anything, on the main patch, click the checkbox right above the "s bellson" box near the top right corner (to prevent a bug with the bells module)
+
+3. When the subject is seated and the setup is connected, start the baseline recording by clicking the corresponding button in the top right corner
+
+4. You can allocate different parameters to different EEG headbands by selecting one of the five boxes wherever they are available (0 = not routed)
+
+5. When the baseline is computed, the generative algorithm automatically starts to be modulated by the EEG signal (if correctly routed)
+
+# Python
 
 ## Introduction
 
