@@ -5,7 +5,6 @@ received packets.
 """
 import sys
 import numpy as np
-import sys
 from params import SIPADDR, CIPADDR
 from sklearn.externals import joblib
 from pyeeg import hurst
