@@ -1,0 +1,318 @@
+RESEARCH TOOLS TERMS OF SERVICE
+
+Last Updated – September 21, 2017
+
+PLEASE CAREFULLY REVIEW these Research Tools Terms Of Service (the “Terms”). The Terms are a binding legal agreement between Interaxon Inc. and/or its Affiliates (“Interaxon”, “we” or “us”), an Ontario Canada corporation located at 511 King St. W. Suite 303, Toronto, ON, M5V 1K4, and you or if applicable, the company or other legal entity you represent (collectively, “you”, “your”, or “Researcher”). The Terms govern your access to the Software. You and Interaxon are each a “Party” and collectively the “Parties”.
+ 
+THIS SOFTWARE IS FOR INFORMATION PURPOSES ONLY AND IS NOT INTENDED TO BE USED FOR ANY OTHER PURPOSE, INCLUDING MEDICAL OR DIAGNOSTIC-RELATED PURPOSES. 
+
+THE SOFTWARE, USER INFORMATION, USER INTERFACE, SUPPORT, COMMUNICATION AND AGREEMENT, ARE ONLY PROVIDED IN ENGLISH. DO NOT USE THE MUSE OR OTHER INTERAXON PRODUCTS UNLESS YOU CAN FLUENTLY READ AND UNDERSTAND ENGLISH.  FURTHER, DO NOT INSTALL, DOWNLOAD OR USE THIS SOFTWARE UNLESS YOU CAN FLUENTLY READ AND UNDERSTAND ENGLISH.
+ 
+TO ENSURE THAT YOU UNDERSTAND THE ABOVE TWO PARAGRAPHS, TRANSLATIONS OF THESE PARAGRAPHS ARE SET OUT BELOW, FOLLOWED BY THE  REST OF THE TERMS:
+
+يتوفر كل من البرنامج، وبيانات المستخدم، وواجهة المستخدم، والدعم، والمراسلات والاتفاقيات باللغة الإنجليزية فقط.  لا تستخدم الحزام الرأسي لاستشعار الموجات الدماغية (MUSE) أو غيره من منتجات إنتراكسون ما لم تكن تجيد قراءة وفهم اللغة الإنجليزية بطلاقة. 
+  “إضافة إلى ذلك، لا تقم بتثبيت هذا البرنامج أو تنزيله أو استخدامه ما لم تكن تجيد قراءة وفهم اللغة الإنجليزية بطلاقة”.
+
+SOFTWAREN, BRUGEROPLYSNINGERNE, BRUGERGRÆNSEFLADEN, SUPPORT, KOMMUNIKATION OG AFTALER FINDES KUN PÅ ENGELSK.  MUSE ELLER ANDRE INTERAXON-PRODUKTER MÅ IKKE BRUGES, MEDMINDRE DU KAN LÆSE OG FORSTÅ ENGELSK FLYDENDE.  “DESUDEN MÅ DENNE SOFTWARE IKKE INSTALLERES, DOWNLOADES ELLER BRUGES, MEDMINDRE DU KAN LÆSE OG FORSTÅ ENGELSK FLYDENDE.”
+
+DIE SOFTWARE, BENUTZERINFORMATIONEN, BENUTZEROBERFLÄCHE, DER SUPPORT, DIE KOMMUNIKATION UND VEREINBARUNGEN WERDEN NUR IN ENGLISCHER SPRACHE BEREITGESTELLT. SIE DÜRFEN DIE MUSE ODER ANDERE PRODUKTE VON INTERAXON NUR VERWENDEN, WENN SIE ENGLISCH FLIESSEND LESEN UND VERSTEHEN KÖNNEN. „DARÜBER HINAUS DÜRFEN SIE DIESE SOFTWARE NUR HERUNTERLADEN, INSTALLIEREN ODER VERWENDEN, WENN SIE ENGLISCH FLIESSEND LESEN UND VERSTEHEN KÖNNEN.“
+
+ΤΟ ΛΟΓΙΣΜΙΚΟ, ΟΙ ΠΛΗΡΟΦΟΡΙΕΣ ΓΙΑ ΤΟ ΧΡΗΣΤΗ, Η ΔΙΕΠΑΦΗ ΤΟΥ ΧΡΗΣΤΗ, Η ΥΠΟΣΤΗΡΙΞΗ, Η ΕΠΙΚΟΙΝΩΝΙΑ ΚΑΙ ΟΙ ΣΥΜΦΩΝΙΕΣ ΠΑΡΕΧΟΝΤΑΙ ΜΟΝΟ ΣΤΑ ΑΓΓΛΙΚΑ. ΜΗΝ ΧΡΗΣΙΜΟΠΟΙΕΙΤΕ ΤΟ MUSE Ή ΑΛΛΑ ΠΡΟΙΟΝΤΑ ΤΗΣ INTERAXON ΕΚΤΟΣ ΕΑΝ ΜΠΟΡΕΙΤΕ ΝΑ ΔΙΑΒΑΣΕΤΕ ΜΕ ΕΥΧΕΡΕΙΑ ΚΑΙ ΝΑ ΚΑΤΑΝΟΗΣΕΤΕ ΤΗΝ ΑΓΓΛΙΚΗ ΓΛΩΣΣΑ. «ΕΠΙΠΛΕΟΝ, ΜΗΝ ΕΓΚΑΤΑΣΤΗΣΕΤΕ, ΛΑΒΕΤΕ ΑΠΟ ΤΟ ΔΙΑΔΙΚΤΥΟ Ή ΧΡΗΣΙΜΟΠΟΙΗΣΕΤΕ ΑΥΤΟ ΤΟ ΛΟΓΙΣΜΙΚΟ, ΕΚΤΟΣ ΕΑΝ ΜΠΟΡΕΙΤΕ ΝΑ ΔΙΑΒΑΣΕΤΕ ΜΕ ΕΥΧΕΡΕΙΑ ΚΑΙ ΝΑ ΚΑΤΑΝΟΗΣΕΤΕ ΤΗΝ ΑΓΓΛΙΚΗ ΓΛΩΣΣΑ.»
+
+EL SOFTWARE, LA INFORMACIÓN DEL USUARIO, LA INTERFAZ DEL USUARIO, EL SERVICIO TÉCNICO, LOS COMUNICADOS Y LOS CONTRATOS SOLO ESTÁN DISPONIBLES EN INGLÉS. NO UTILICE MUSE NI NINGÚN OTRO PRODUCTO DE INTERAXON A MENOS QUE PUEDA LEER Y COMPRENDER INGLÉS CON FLUIDEZ. “ADEMÁS, NO INSTALE, DESCARGUE NI UTILICE ESTE SOFTWARE A MENOS QUE PUEDA LEER Y COMPRENDER INGLÉS CON FLUIDEZ”.
+
+EL SOFTWARE, LA INFORMACIÓN PARA EL USUARIO, LA INTERFAZ DEL USUARIO, LA ASISTENCIA TÉCNICA, LOS COMUNICADOS Y LOS ACUERDOS, SE SUMINISTRAN SOLO EN INGLÉS. NO UTILICE MUSE NI OTROS PRODUCTOS INTERAXON A MENOS QUE PUEDA LEER Y COMPRENDER CON FLUIDEZ EL IDIOMA INGLÉS. “ADEMÁS, NO INSTALE, DESCARGUE NI UTILICE ESTE SOFTWARE A MENOS QUE PUEDA LEER Y COMPRENDER CON FLUIDEZ EL IDIOMA INGLÉS”.
+
+OHJELMISTO, KÄYTTÄJÄTIEDOT, KÄYTTÖLIITTYMÄ, TUKI, VIESTIT JA SOPIMUKSET OVAT SAATAVINA AINOASTAAN ENGLANNIKSI. ÄLÄ KÄYTÄ MUSEA TAI MUITA INTERAXON-TUOTTEITA, ELLET OSAA LUKEA SUJUVASTI TAI YMMÄRRÄ ENGLANTIA. ”ÄLÄ MYÖSKÄÄN ASENNA, LATAA TAI KÄYTÄ TÄTÄ OHJELMISTOA, ELLET OSAA LUKEA SUJUVASTI TAI YMMÄRRÄ ENGLANTIA.”
+
+LE LOGICIEL, LES DONNÉES DE L’UTILISATEUR, L’INTERFACE UTILISATEUR, L’ASSISTANCE, LES COMMUNICATIONS ET LES CONTRATS SONT FOURNIS EN ANGLAIS UNIQUEMENT.  N’UTILISEZ PAS LES PRODUITS MUSE OU LES AUTRES PRODUITS INTERAXON SI VOUS NE POUVEZ PAS LIRE NI COMPRENDRE L’ANGLAIS COURAMMENT. « PAR AILLEURS, ABSTENEZ-VOUS D’INSTALLER, DE TÉLÉCHARGER OU D’UTILISER CE LOGICIEL SI VOUS NE POUVEZ PAS LIRE NI COMPRENDRE L’ANGLAIS COURAMMENT. »
+
+התוכנה, מידע על המשתמש, ממשק המשתמש, תמיכה, תקשורת והסכמים, זמינים רק באנגלית.   אין להשתמש ב-MUSE או במוצרים אחרים של INTERAXON אלא אם כן אתם קוראים ומבינים אנגלית היטב.  “לא רק זאת, אף זאת, אין להתקין או להוריד תוכנה זו, ואין לעשות בה שימוש, אלא אם כן אתם קוראים ומבינים אנגלית היטב.”
+
+PERANGKAT LUNAK, INFORMASI PENGGUNA, ANTARMUKA PENGGUNA, DUKUNGAN, KOMUNIKASI DAN PERJANJIAN, HANYA DISEDIAKAN DALAM BAHASA INGGRIS.  JANGAN GUNAKAN MUSE ATAU PRODUK INTERAXON LAINNYA KECUALI JIKA ANDA BISA MEMBACA DAN MEMAHAMI BAHASA INGGRIS DENGAN LANCAR.  “LEBIH LANJUT, JANGAN MEMASANG, MENGUNDUH ATAU MENGGUNAKAN PERANGKAT LUNAK INI KECUALI JIKA ANDA BISA MEMBACA DAN MEMAHAMI BAHASA INGGRIS DENGAN LANCAR.”
+
+本ソフトウェア、ユーザー情報、ユーザーインターフェース、サポート、コミュニケーションおよび契約書は英語でのみ提供されます。英語を流暢に読み、理解することができない場合、MUSEまたはその他のINTERAXONの製品を使用しないでください。 「また、英語を流暢に読み、理解することができない場合、本ソフトウェアをインストール、ダウンロードまたは使用しないでください。」
+
+소프트웨어, 사용자정보, 사용자인터페이스, 지원, 커뮤니케이션및동의서는영어로만제공됩니다.  영어를읽고이해하는데어려움이있으시다면 MUSE 또는기타 INTERAXON 제품을사용하지마십시오.  “또한영어를읽고이해하는데어려움이있으시다면이소프트웨어를설치하거나, 다운로드하거나, 사용하지마십시오.”
+
+PERISIAN, MAKLUMAT PENGGUNA, ANTARA MUKA PENGGUNA, SOKONGAN, KOMUNIKASI DAN PERJANJIAN, HANYA DISEDIAKAN DALAM BAHASA INGGERIS.  JANGAN GUNAKAN MUSE ATAU PRODUK INTERAXON YANG LAIN MELAINKAN ANDA BOLEH MEMBACA DAN MEMAHAMI INGGERIS DENGAN BAIK.   “TAMBAHAN LAGI, JANGAN PASANG, MUAT TURUN ATAU MENGGUNAKAN PERISIAN INI MELAINKAN ANDA BOLEH MEMBACA DAN MEMAHAMI INGGERIS DENGAN BAIK.”
+
+DE SOFTWARE, GEBRUIKERSINFORMATIE, GEBRUIKERSINTERFACE, SUPPORT, COMMUNICATIE EN OVEREENKOMSTEN, WORDEN UITSLUITEND IN HET ENGELS GELEVERD. GEBRUIK DE MUSE OF ANDERE INTERAXON PRODUCTEN NIET TENZIJ U VLOEIEND ENGELS KUNT LEZEN EN VERSTAAN.  “NADERE KENNISGEVING, INSTALLEER, DOWNLOAD OF GEBRUIKE DEZE SOFTWARE NIET, TENZIJ U VLOEIEND ENGELS KUNT LEZEN EN VERSTAAN.”
+
+PROGRAMVAREN, BRUKERINFORMASJON, BRUKERGRENSESNITT, BRUKERSTØTTE, KOMMUNIKASJON OG AVTALER, GIS KUN PÅ ENGELSK. IKKE BRUK MUSE ELLER ANDRE INTERAXON-PRODUKTER MED MINDRE DU KAN LESE OG FORSTÅ ENGELSK FLYTENDE. «VIDERE, IKKE INSTALLER, LAST NED ELLER BRUK DENNE PROGRAMVAREN MED MINDRE DU KAN LESE OG FORSTÅ ENGELSK FLYTENDE.»
+
+INFORMACJE O OPROGRAMOWANIU, UŻYTKOWNIKU, INTERFEJSIE UŻYTKOWNIKA, WSPARCIU TECHNICZNYM, A TAKŻE WSZELKA KOMUNIKACJA I UMOWY DOSTĘPNE SĄ JEDYNIE W JĘZYKU ANGIELSKIM. UŻYTKOWNICY NIEZNAJĄCY JĘZYKA ANGIELSKIEGO W STOPNIU BIEGŁYM NIE POWINNI KORZYSTAĆ Z MUSE ANI INNYCH PRODUKTÓW FIRMY INTERAXON.„PONADTO UŻYTKOWNICY NIEZNAJĄCY JĘZYKA ANGIELSKIEGO W STOPNIU BIEGŁYM NIE POWINNI INSTALOWAĆ, POBIERAĆ ANI KORZYSTAĆ Z TEGO OPROGRAMOWANIA”.
+
+O SOFTWARE, AS INFORMAÇÕES DO USUÁRIO, A INTERFACE DO USUÁRIO, O SUPORTE, AS COMUNICAÇÕES E OS CONTRATOS SÃO FORNECIDOS SOMENTE EM INGLÊS.  NÃO USE O MUSE OU OUTROS PRODUTOS DA INTERAXON A NÃO SER QUE VOCÊ POSSA LER E COMPRENDER INGLÊS FLUENTEMENTE.  “ALÉM DISSO, NÃO INSTALE, BAIXE OU USE ESTE SOFTWARE A NÃO SER VOCÊ POSSA LER E COMPRENDER INGLÊS FLUENTEMENTE”.
+
+O SOFTWARE, A INFORMAÇÃO DO UTILIZADOR, A INTERFACE DO UTILIZADOR, O APOIO, AS COMUNICAÇÕES E ACORDOS, SÃO APENAS DISPONIBILIZADOS EM INGLÊS. NÃO UTILIZE O MUSE OU OUTROS PRODUTOS DA INTERAXON A MENOS QUE SAIBA LER E COMPREENDER INGLÊS FLUENTEMENTE. “ALÉM DISSO, NÃO INSTALE, TRANSFIRA OU UTILIZE ESTE SOFTWARE A MENOS QUE SAIBA LER E COMPREENDER INGLÊS FLUENTEMENTE.”
+
+PROGRAMUL, INTERFAŢA PENTRU UTILIZATOR, ASISTENŢA, COMUNICĂRILE ŞI CONTRACTELE SUNT FURNIZATE EXCLUSIV ÎN LIMBA ENGLEZĂ. NU UTILIZAŢI „THE MUSE” SAU ALTE PRODUSE INTERAXON DECÂT DACĂ AVEŢI CAPACITATEA DE A CITI ŞI ÎNŢELEGE LIMBA ENGLEZĂ ÎN MOD FLUENT. „ÎN PLUS, NU INSTALAŢI, DESCĂRCAŢI SAU UTILIZAŢI ACEST PROGRAM DECÂT DACĂ AVEŢI CAPACITATEA DE A CITI ŞI ÎNŢELEGE LIMBA ENGLEZĂ ÎN MOD FLUENT.”
+
+PROGRAMUL, INTERFAŢA PENTRU UTILIZATOR, ASISTENŢA, COMUNICĂRILE ŞI CONTRACTELE SUNT FURNIZATE EXCLUSIV ÎN LIMBA ENGLEZĂ. NU UTILIZAŢI „THE MUSE” SAU ALTE PRODUSE INTERAXON DECÂT DACĂ AVEŢI CAPACITATEA DE A CITI ŞI ÎNŢELEGE LIMBA ENGLEZĂ ÎN MOD FLUENT. „ÎN PLUS, NU INSTALAŢI, DESCĂRCAŢI SAU UTILIZAŢI ACEST PROGRAM DECÂT DACĂ AVEŢI CAPACITATEA DE A CITI ŞI ÎNŢELEGE LIMBA ENGLEZĂ ÎN MOD FLUENT.”
+
+PROGRAMVARAN, ANVÄNDARINFORMATION, ANVÄNDARGRÄNSSNITT, SUPPORT, KOMMUNIKATION OCH AVTAL TILLHANDAHÅLLS ENDAST PÅ ENGELSKA. ANVÄND INTE MUSE ELLER ANDRA INTERAXON-PRODUKTER OM DU INTE KAN LÄSA OCH FÖRSTÅ ENGELSKA.”DESSUTOM SKA DU INTE INSTALLERA, LADDA NER ELLER ANVÄNDA DENNA PROGRAMVARA OM DU INTE KAN LÄSA OCH FÖRSTÅ ENGELSKA.”
+
+ซอฟต์แวร์ ข้อมูลผู้ใช้ อินเตอร์เฟซสำหรับผู้ใช้ การสนับสนุน การสื่อสารและข้อตกลงจัดให้ในภาษาอังกฤษเท่านั้น  ห้ามใช้งาน MUSE หรือผลิตภัณฑ์ INTERAXON อื่นๆ เว้นแต่คุณสามารถอ่านและเข้าใจภาษาอังกฤษได้อย่างคล่องแคล่ว  “นอกจากนี้ ห้ามติดตั้ง ดาวน์โหลดหรือใช้งานซอฟตืแวร์นี้ เว้นแต่คุณสามารถอ่านและเข้าใจภาษาอังกฤษได้อย่างคล่องแคล่ว”
+
+YAZILIM, KULLANICI BİLGİLERİ, KULLANICI ARAYÜZÜ, DESTEK, İLETİŞİM VE ANLAŞMALAR SADECE İNGİLİZCE OLARAK SUNULMAKTADIR. İNGİLİZCEYİ İLERİ DÜZEYDE OKUYUP ANLAYAMIYORSANIZ, MUSE VEYA DİĞER INTERAXON ÜRÜNLERİNİ KULLANMAYIN. “İNGİLİZCEYİ İLERİ DÜZEYDE OKUYUP ANLAYAMIYORSANIZ, BU YAZILIMI KURMAYIN, İNDİRMEYİN VEYA KULLANMAYIN.”
+
+ПРОГРАМНЕ ЗАБЕЗПЕЧЕННЯ, ІНФОРМАЦІЯ ДЛЯ КОРИСТУВАЧА, ІНТЕРФЕЙС КОРИСТУВАЧА, ПІДТРИМКА, ЗВ’ЯЗОК І УГОДИ НАДАЮТЬСЯ ТІЛЬКИ АНГЛІЙСЬКОЮ МОВОЮ. НЕ ВИКОРИСТОВУЙТЕ MUSE АБО ІНШІ ПРОДУКТИ КОМПАНІЇ INTERAXON, ЯКЩО ВИ НЕ МОЖЕТЕ ВІЛЬНО ЧИТАТИ АНГЛІЙСЬКОЮ МОВОЮ І РОЗУМІТИ АНГЛІЙСЬКУ МОВУ.  «БІЛЬШЕ ТОГО, НЕ ВСТАНОВЛЮЙТЕ, НЕ ЗАВАНТАЖУЙТЕ І НЕ ВИКОРИСТОВУЙТЕ ЦЕ ПРОГРАМНЕ ЗАБЕЗПЕЧЕННЯ, ЯКЩО ВИ НЕ МОЖЕТЕ ВІЛЬНО ЧИТАТИ АНГЛІЙСЬКОЮ МОВОЮ І РОЗУМІТИ АНГЛІЙСЬКУ МОВУ».
+
+PHẦN MỀM, THÔNG TIN NGƯỜI SỬ DỤNG, GIAO DIỆN NGƯỜI SỬ DỤNG, HỖ TRỢ, LIÊN LẠC VÀ CÁC THỎA THUẬN CHỈ ĐƯỢC CUNG CẤP BẰNG TIẾNG ANH.  KHÔNG NÊN SỬ DỤNG MUSE HOẶC CÁC SẢN PHẨM INTERAXON KHÁC TRỪ KHI BẠN CÓ THỂ ĐỌC VÀ HIỂU TIẾNG ANH THÀNH THẠO.  “HƠN NỮA, KHÔNG NÊN CÀI ĐẶT, TẢI XUỐNG HOẶC SỬ DỤNG PHẦN MỀM NÀY TRỪ KHI BẠN CÓ THỂ ĐỌC VÀ HIỂU TIẾNG ANH THÀNH THẠO.”
+
+软件、用户信息、用户界面、支持、通信和协议，只提供英文版本。除非您能够流利地阅读和理解英语，否则不要使用 MUSE 或其他 INTERAXON 的产品。  “此外，除非您能够流利地阅读和理解英语，否则请勿安装、下载或使用此软件。”
+
+本軟體、使用者資訊、使用者界面、支援、通訊和協議，只提供英文版本。除非閣下能流暢地閱讀和理解英文，否則請勿使用 MUSE 或其他 INTERAXON 產品。 「此外，除非閣下能流暢地閱讀和理解英文，否則請勿安裝，下載或使用本軟體。
+
+ACKNOWLEDGMENT OF TERMS OF SERVICE:
+
+By registering or using the Software you agree to be bound by the Terms. If you are using the Software on behalf of an organization you have identified as part of the registration process, you are agreeing to the Terms for that organization (in which event, “you”, “your” or “Researcher” will refer to that organization) and promising us that you have the authority to bind that organization to the Terms. IF YOU DO NOT AGREE TO BE BOUND BY THE TERMS, YOU MUST NOT USE THE SOFTWARE.
+
+Notwithstanding  anything to the contrary, we may, in our sole discretion, modify the Terms via email or by posting notice on our website or any part of the Software. The “Last Updated” date at the top the Terms indicates when the latest modifications were made to the Terms. By continuing to access and/or use the Software, you agree to any such modifications. In addition, when using particular services or features on the Software, you will be subject to any posted guidelines or policies applicable to such services or features that may be posted from time to time, including but not limited to the Privacy Policy as noted below. All such guidelines or policies are hereby incorporated by reference into the Terms.
+
+If you have any comments or questions regarding the Terms, or wish to report any violation of the Terms, or encounter content you find inappropriate, or otherwise believe to be a violation of the Terms, you may report it by sending an email to customercare@choosemuse.com.
+
+
+________________
+
+
+1. DEFINITIONS
+
+	Capitalized terms used but not defined elsewhere in the Terms shall have the following definitions:
+
+   (a) “Affiliate” means, with respect to any Party, any other party directly or indirectly controlling, controlled by or under common control with such Party. 
+
+   (b) “Branding Guidelines” means our then-current branding guidelines and which may include terms and conditions applicable to the use of our trademarks, trade names, service marks, and logos, as they may be modified or amended by us from time-to-time. You may request the Branding Guidelines from customercare@choosemuse.com or they may otherwise be made available to you through the Software or our websites. The Branding Guidelines shall be deemed to be incorporated by reference into the Terms. Each time you wish to use any of our trademarks, trade names, service marks, and/or logos, you shall ensure that you have the then-current version of the Branding Guidelines from us and comply with such Branding Guidelines.
+
+   (c) “Headband” means our proprietary device, commercially known and referred to as the Muse headband, which comprises sensors which are designed to monitor, among other things the electrical activity in a person’s brain and/or a person’s muscle activity. 
+
+   (d) “Intellectual Property Rights” means all intellectual property and proprietary rights of any nature or kind, whether protected, created, or arising under any applicable law, and all worldwide common law, statutory, and other rights in, arising out of, or associated therewith, including but not limited to trademarks, copyrights, patents, domain names, and trade secrets.
+
+   (e) “Payment Processor” means the payment processor used by us from time to time to facilitate payment for the amounts specified in each form of invoice or subscription order.
+
+   (f) “Payment Processor Services Agreement” means the Payment Processor’s service agreement in effect from time to time. As at the date the Terms were last updated, we use Stripe as the Payment Processor and the Payment Processor Services Agreement for Stripe is the Stripe Connected Account Agreement, which includes the Stripe Terms of Service.
+
+   (g) “Privacy Policy” means our then-current privacy policy which applies to your use of our websites, hardware, software, and/or services and amongst other things, describes the kinds of personal information that is collected about you, how we use it, how we protect it, and under what circumstances we share it with third parties. This Privacy Policy also describes the decisions you can make about your personal information and can be viewed at www.choosemuse.com/legal/privacy (or may otherwise be made available to you through the Software from time to time). The Privacy Policy shall be deemed to be incorporated by reference into the Terms. 
+ 
+   (h) “Research Tool Content” means any biometric data and any other information that may be generated by you, your clients or on your behalf through or as a result of your use of the Software.
+
+   (i) “Software” means our proprietary software commercially known and referred to as Muse Lab, Muse Player and Muse-IO, which are designed to allow you, amongst other things, to extract data from the Headband, collect it, and record it, including any future updates and upgrades to such software that are made available to you. 
+
+
+   2. LICENSE
+
+
+   2.1. License Grant During The Trial Period (If Applicable)
+
+If the applicable form of invoice,subscription order, or Interaxon product description specifies that you are entitled to a trial period, such trial period will be limited to 30 days unless the invoice, subscription, or Interaxon product description specifies another period during which you may evaluate the Software (“Trial Period”), and notwithstanding anything else, in connection with such evaluation: (a) no fees will be payable by you during the Trial Period, (b) access to the Software will  be provided “AS IS” and no warranty obligations will apply to us; (c) you may terminate and/or cancel the Terms during the Trial Period by providing us written notice of termination and/or cancellation to customercare@interaxon.ca (such notice must include your contact information and account identification) or if available, by cancelling the subscription through the Software;  (d) we may in our sole discretion, reduce or increase the Trial Period ; and (e) in accordance with the terms herein, we grant to you a limited personal, non-transferable, non-sublicensable and non-exclusive license during the Trial Period to install and use a single copy of the Software only for your research, information and non-commercial use of the Software with the  Headband. 
+   
+   2.2. License Grant 
+
+Subject to section 2.1, and in accordance with the terms herein, we grant you a limited personal, non-transferable, non-sublicensable and non-exclusive license during the Term to install and use a single copy of the Software only for your research, information and non-commercial use with the Headband (the “License”). You may terminate and/or cancel the Terms by providing us written notice of termination and/or cancellation to customercare@interaxon.ca (such notice must include your contact information and account identification) or if available, by cancelling the subscription through the Software and we may terminate and/or cancel the Terms in accordance with Article 8.
+
+If you wish to develop any applications for use with the Headband or any other devices that use our Intellectual Property Rights, you may not do so under this Agreement, and must contact our business development team at  business@interaxon.ca and enter into an appropriate agreement with us.  
+
+   2.3. Scope of Use
+
+Except in accordance with the terms herein or as reasonably required for you to avail yourself of the intended functionality of the Software as contemplated in a form of invoice or subscription order, if any, you will not: (i) reproduce, copy, duplicate, license, rent, trade, sublicense, sell, resell, transfer, assign, distribute or otherwise commercially exploit or make available to any third party the Software (or any part thereof); (ii) modify or make derivative works based upon the Software or; (iii) reverse engineer or access the Software in order to: (a) build a competitive product or service, (b) build a product using similar ideas, features, functions or graphics of the Software, or (c) copy any ideas, features, functions or graphics of the Software. User subscriptions cannot be shared or used by more than one individual user but may be reassigned from time to time to new users who are replacing former users who have terminated their employment or otherwise changed job status or function and no longer use the Software provided the assignee complies with all obligations under this Agreement.
+
+You may use the Software only for your internal business purposes and will not: (i) interfere with or disrupt the integrity or performance of the Software; or (ii) attempt to gain unauthorized access to the Software or its related systems or networks. We reserve the right to interrupt, terminate and/or cancel, or restrict access to the Software without notice to you and without any liability if you fail to comply with any obligation under the Terms or any other agreement with us or if we suspect illegal, fraudulent, or abusive activity. You agree to cooperate with us in any investigation and use reasonable measures prescribed by us from time to time to address any issues or concerns identified by us.
+
+You will not, directly or indirectly: reverse engineer, decompile, disassemble or otherwise attempt to discover the source code, object code or underlying structure, ideas, know-how or algorithms relevant to the Software or any software, documentation or data related to Software; modify, translate, or create derivative works based on the Software (except to the extent expressly and in writing permitted by us or expressly authorized within the Software); or remove any proprietary notices or labels. 
+
+The Software may incorporate and/or use third party software and you acknowledge and agree that you will comply with any license agreements and restrictions applicable to such third party software.
+
+   2.4. Our Policy; Applicable Law
+
+Your use of the Software indicates your acceptance of the terms of the Privacy Policy. We will not use information that identifies you or your clients that is accessed or collected while performing under the Terms for any purpose other than those expressly permitted by the Terms and the Privacy Policy. You covenant and warrant that your use of the Software and the Research Tool Content will be in compliance with all applicable laws and regulations, including without limitation, applicable privacy and export laws. You hereby agree to indemnify and hold us harmless against any damages, losses, liabilities, settlements and expenses (including without limitation costs and attorney's fees) in connection with any claim or action that arises from an alleged or actual violation of the foregoing or otherwise from your use of the Software. Although we have no obligation to monitor your use of the Software, we may do so and may prohibit any use of the Software we believe may be (or is alleged to be) in violation of the Terms. You further grant us the right to audit your compliance with the Terms during normal working hours. 
+
+   2.5. End User License
+
+Software provided by us in connection with the Headband is subject to the software license terms and as set forth in the End User License Agreement (“EULA”) located at www.choosemuse.com/legal (or may otherwise be made available to you through our websites from time to time). The EULA is subject to change and you are responsible for reviewing it and complying with it.
+
+  2.6. Informational Purposes Only
+
+You acknowledge that you are aware that: (a) content generated or found through the Software and our products is for informational purposes only; (b) the Headband is not a medical device; (c) the Headband and associated applications are not designed to treat or diagnose any disease or medical condition; and (d) we are not a licensed medical or health-care care provider and have no expertise in diagnosing, examining, or treating medical conditions of any kind. Further, you acknowledge and understand that the information generated by the Headband is not medical information, our products and services are not Health Insurance Portability and Accountability Act (HIPAA) compliant. 
+
+
+   3. OBLIGATIONS
+
+   3.1.  Service Level Terms 
+
+Subject to the Terms, we will use commercially reasonable efforts to provide you access to the Software. We do not make any commitment that the Software will be available at all times or during any down time: (a) caused by outages to any public Internet backbones, networks, servers or other telecommunication services, (b) caused by any failures of your equipment, systems or local access services, (c) for previously scheduled maintenance, (d) caused by any third party vendor or our service provider, or (e) relating to events beyond our (or our licensors’ or service provider’s) reasonable control including without limitation, strikes, riots, insurrection, fires, floods, explosions, war, governmental action, labor conditions, earthquakes, natural disasters, failure of suppliers, regulatory or legal restrictions, or interruptions in Internet or other services.
+
+    3.2. Updates
+
+From time to time, we may provide upgrades, patches, enhancements, or fixes for the Software to our users generally without additional charge (“Updates”), and such Updates will become part of the Software and subject to the Terms and/or an agreement. Notwithstanding the foregoing, we shall have no obligation under the Terms or otherwise to provide any such Updates. You understand that we may cease supporting old versions or releases of the Software at any time in our sole discretion.
+     
+    4.  USE OF THE SOFTWARE
+
+    4.1. Account
+
+You may be required to establish an account in order to use the Software and/or take advantage of certain features. If so, you agree to: (a) provide true, accurate, current and complete information about yourself as prompted by the Software; and (b) as permitted, maintain and promptly update such information. If you provide any information that is false, inaccurate or outdated, or we have reasonable grounds to suspect that such information is false, inaccurate, outdated, or non compliant with the Privacy Policy, we have the right to suspend or terminate and/or cancel your account and/or prohibit any and all current or future use of the Software by you. You are responsible for maintaining the confidentiality of the password and account, and are fully responsible for all activities that occur under your account. We advise against sharing your password with anyone and if you do lend your password, then you are responsible for any actions taken by anyone you lent your password to, including indemnifying us for any loss. If you access your account via a third-party site or service, you may have additional or different sign-in protections via that third-party site or service and there might be terms and conditions associated with such third-party site or services you must comply with. You need to prevent unauthorized access to your account by selecting and protecting your password and/or other sign-in mechanism appropriately and limiting access to your computer, browser, or mobile device by signing off after you have finished accessing your account. Your account is meant to be private and you shall not share accounts for any reason. You agree to immediately notify us of any unauthorized use of your password or account or any other breach of security. You agree to be responsible for all charges resulting from the use of your account via the Software and shall indemnify us for any losses  we suffer due to your use or misuse of the Software, including charges resulting from any unauthorized use of your account.
+         
+    4.2.  Lawful Use
+
+You agree to use the Software only for lawful purposes and that you are responsible for your use of the Software. You agree not to use the Software in any manner that interferes with its normal operation or with any other user’s use of the Software. You may not probe, scan, or test the vulnerability of any system or network or breach or circumvent any security or authentication measures. 
+
+If we, in our sole discretion, believe that you have engaged in or facilitated practices that: (i) are in breach of the Terms, (ii) are offensive, illegal or violate our rights or the rights of others, (iii) violate any terms of use or guidelines or policies,  or (iv) could result in liability for us, then we have the the right (but not the obligation), without notice, to terminate and/or cancel your access to and/or use of all or a portion of the Software, all without any recourse against us. In addition, if we suspect that any registration data provided is inaccurate or incomplete, we may suspend or terminate and/or cancel the account without notice or recourse against us. Notwithstanding anything to the contrary, you acknowledge and agree that we may access, use, preserve and/or disclose your account information if legally required to do so or if we have a good faith belief that such access, use, disclosure, or preservation is reasonably necessary to: (a) comply with legal process or request; (b) enforce the Terms, including investigation of any potential violation thereof; (c) detect, prevent or otherwise address security, fraud or technical issues; or (d) protect our rights, property or safety of the rights, property or safety of our users or the public as considered necessary by us or permitted by law.
+         
+    5. COMPENSATION
+
+    5.1. Compensation
+
+You will pay us the amounts specified in each form of invoice or subscription order. We will invoice you for items set forth in the invoice or subscription order, if any, and you will pay for invoices issued in any given month and payment must be received by us in advance, unless the applicable invoice or subscription order contains payment terms that are different. Unpaid amounts are subject to a finance charge of 1.5% per month on any outstanding balance, or the maximum permitted by law, whichever is lower, plus all expenses of collection and may result in immediate termination and/or cancellation of your access to the Software. You will be responsible for all taxes associated with the Software other than taxes based on our net income. We may suspend your access to the Software without notice for any unpaid and due invoices. We reserve the right to impose a reconnection fee in the event you are suspended and thereafter request access to the Software. Unless otherwise specified in the invoice or subscription order, all amounts under the Terms are payable in U.S. dollars. Any amounts paid by you are non-refundable.
+
+    5.2. Compensation Collection
+
+We act as a payment collection agent and use a Payment Processor to facilitate payment for the amounts specified in each form of invoice or subscription order. In the case of any errors during a payment to us for the amounts specified in each form of invoice or subscription order, you will need to contact your bank, credit card institution or other company responsible for the payment to resolve the issue. Payment processing services for you on our Software are provided by a Payment Processor and are subject to the Payment Processor Services Account Agreement. By agreeing to the Terms or continuing to use the Software, you agree to be bound by the Payment Processor Services Agreement, as it may be modified by the Payment Processor from time to time. As a condition of our enabling payment processing services through the Payment Processor, you agree to provide us with accurate and complete information, and authorize us to use such Payment Processor.
+
+    5.3. Changes to Fees
+
+We will not increase the fee for the Initial Term , except where new or additional functions are added or become available to you. You will be notified in advance and you will have an opportunity to decide whether you would like to use such function and/or such revised service. 
+
+
+     6.  INTELLECTUAL PROPERTY RIGHTS 
+
+     6.1. Ownership
+
+As used herein, “Interaxon Materials” means:
+        (a) all materials that were created by Interaxon including the Software and the layout and flow of the Software; 
+        (b) any our websites; and
+        (c) any other materials created under the scope of the Terms or subsequent to the Terms, excluding those portions of any materials which comprise Research Tool Content, but including without limitation:
+               (i) all originally created or licensed audio or visual assets, computer software, code, routines, tools, application engines, algorithms, inventions and other technology contained in or used by us in the development of the Software; 
+               (ii) the technical documentation, if any, of or concerning the Software; 
+               (iii) any analytics data generated from the use of the Software; and
+               (iv) any training or other materials made available pursuant to the Terms.
+
+As between you and us, we shall at all times be and remain, the sole and exclusive owner of the Interaxon Materials and all Intellectual Property Rights pertaining thereto. Without limiting the generality of the foregoing, nothing in the Terms shall be deemed to grant or assign to you any proprietary or ownership interest or Intellectual Property Rights in or to Software, Interaxon Materials or any derivatives of such, other than the license rights specifically set forth herein. 
+
+    6.2. Permitted Activity
+
+Notwithstanding anything to the contrary, you acknowledges that we may develop and distribute software and applications using Interaxon Materials and that nothing in the Terms shall prevent the foregoing.
+
+    6.3  Marks and other Intellectual Property
+
+All trademarks, service marks, trade names, domain names, slogans, logos, screen shots including screen shots of the Headband, sounds, and other indicia of origin that appear on or in connection with any aspect of the Software or the Websites, including without limitation, “INTERAXON”, “MUSE”, “BRAIN SENSING”, “MEDITATION MADE EASY”, “TAKE A BREATH”, “PERSONAL MEDIATION ASSISTANT”, “CHOOSEMUSE”; “MPOWERED BY MUSE”, “MUSE DIRECT”, the Headband status indicator (or similar status indicator), use of “CALM”, “NEUTRAL”, and “ACTIVE” in relation to states of mind/brain signal calm points and/or recoveries (collectively, “Branding Elements”) are either our property or the property of our Affiliates or licensors. We retain the right to rescind and terminate and/or cancel the limited license granted hereunder at any point, for any reason. All rights not expressly granted herein by us to you are fully reserved by us, our Affiliate and licensors. 
+
+
+    7.  REPRESENTATIONS AND WARRANTIES: INDEMNITY; LIMITATION OF LIABILITY
+
+    7.1. Our Representations and Warranties
+
+We represent, warrant, and undertake as follows:
+        (a) We are free to enter into and fully perform the Terms.
+        (b) The entering into of the Terms by us does not violate any agreements, rights or obligations existing between us and any other person, firm or corporation.
+
+    7.2. Your Representations and Warranties
+
+You represent, warrant, and undertake as follows:
+        (a) You are free to enter into and fully perform the Terms.
+        (b) The entering into of the Terms by you does not violate any agreements, rights or obligations existing between you and any other person, firm or corporation.
+        (c) You are of legal age to form a binding contract or have the authority to form a binding contract; all registration information you submit is accurate and truthful; you will maintain the accuracy of such information; and you are legally permitted to use and access the Software, and you take full responsibility for compliance with these Terms and the selection and use of and access to the Software.
+
+    7.3. Warranty and Disclaimer
+
+YOUR USE OF THE SOFTWARE IS AT YOUR SOLE RISK. THE SOFTWARE AND THE ASSOCIATED MATERIALS AND CONTENT ARE PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS. WE, OUR AFFILIATES, AND THEIR RESPECTIVE OFFICERS, DIRECTORS, EMPLOYEES, AGENTS AND OTHER REPRESENTATIVES (COLLECTIVELY, “INTERAXON PARTIES”), EXPRESSLY DISCLAIM ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. WITHOUT LIMITING THE GENERALITY OF THE FOREGOING,  INTERAXON PARTIES MAKE NO WARRANTY THAT: (I) THE SOFTWARE WILL MEET YOUR REQUIREMENTS; (II) THE SOFTWARE WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE; (III) INFORMATION THAT MAY BE OBTAINED VIA THE SOFTWARE WILL BE ACCURATE OR RELIABLE; (IV) THE QUALITY OF THE  SOFTWARE WILL MEET YOUR EXPECTATIONS OR NEEDS; AND (V) ANY ERRORS IN THE SOFTWARE WILL BE CORRECTED.
+
+   7.4. Exclusion of Damages
+
+INTERAXON PARTIES SHALL NOT UNDER ANY CIRCUMSTANCES BE LIABLE FOR ANY DAMAGES OF ANY KIND ARISING OUT OF, IN CONNECTION WITH OR RELATING TO THE USE OF OR INABILITY TO USE THE SOFTWARE AND THE ASSOCIATED MATERIALS AND CONTENT, INCLUDING ANY LIABILITY: (I) AS A PUBLISHER OF INFORMATION; (II) FOR ANY INCORRECT OR INACCURATE INFORMATION OR ANY ‘BUG’ OF THE PLATFORM OR THE WEBSITES; (III) FOR ANY UNAUTHORIZED ACCESS TO OR DISCLOSURE OF YOUR TRANSMISSIONS OR DATA; OR (IV) FOR ANY OTHER MATTER RELATING TO THE SOFTWARE, OR ANY THIRD PARTY. THIS IS A COMPREHENSIVE LIMITATION OF LIABILITY THAT APPLIES TO ALL DAMAGES OF ANY KIND, INCLUDING ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, PUNITIVE, EXEMPLARY, OR CONSEQUENTIAL DAMAGES, WHETHER BASED ON BREACH OF CONTRACT, BREACH OF WARRANTY, TORT (INCLUDING NEGLIGENCE), PRODUCT LIABILITY OR OTHERWISE, EVEN IF AN INDIVIDUAL ADVISES INTERAXON PARTIES OF THE POSSIBILITY OF SUCH DAMAGES. THE LIMITATIONS OF LIABILITY SET FORTH HEREIN ARE FUNDAMENTAL ELEMENTS OF THE BASIS OF THE BARGAIN BETWEEN US AND YOU. THE INFORMATION AND SERVICES OFFERED ON AND THROUGH THE SOFTWARE WOULD NOT BE PROVIDED TO YOU WITHOUT SUCH LIMITATIONS.  NOTHING HEREIN IS INTENDED TO CONSTITUTE OR CREATE ANY REPRESENTATION OR WARRANTY BY INTERAXON TO ANY THIRD PARTY (INCLUDING END USERS), DIRECTLY OR AS A THIRD PARTY BENEFICIARY, WITH RESPECT TO ANY OF THE SERVICES PROVIDED HEREUNDER.
+
+    7.5. Limitation of Liability
+
+NOTWITHSTANDING THE FOREGOING, THE SOLE AND ENTIRE MAXIMUM LIABILITY OF INTERAXON PARTIES FOR ANY REASON, AND YOUR SOLE AND EXCLUSIVE REMEDY FOR ANY CAUSE OR CLAIM WHATSOEVER, SHALL BE LIMITED TO THE CHARGES PAID BY YOU DIRECTLY TO  INTERAXON FOR THE SOFTWARE LICENSE GRANTED  SOLELY AND DIRECTLY TO YOU PURSUANT TO THE TERMS IN THE SIX MONTHS IMMEDIATELY PRIOR TO SUCH CAUSE OR CLAIM ARISING. SOME JURISDICTIONS DO NOT ALLOW THE DISCLAIMER OF CERTAIN WARRANTIES OR THE LIMITATION OR EXCLUSION OF LIABILITY FOR CERTAIN TYPES OF DAMAGES. ACCORDINGLY, TO THE EXTENT PROHIBITED BY APPLICABLE LAW, SOME OF THE ABOVE DISCLAIMERS AND LIMITATIONS MAY NOT APPLY TO YOU.
+
+WITHOUT LIMITING THE FOREGOING, INTERAXON PARTIES SHALL NOT BE LIABLE FOR: i) CLAIMS ASSOCIATED WITH MODIFICATIONS OR ADAPTATIONS PERFORMED BY ANYONE OTHER THAN INTERAXON; OR ii) USE OF THE SOFTWARE WITH PRODUCTS OR SERVICES THAT ARE NOT PROPRIETARY TO INTERAXON.
+
+If you are a California resident, you shall and hereby do waive California Civil Code Section 1542, which says: “A general release does not extend to claims which the creditor does not know or suspect to exist in his favor at the time of executing the release, which, if known by him must have materially affected his settlement with the debtor.”
+
+    7.6. Indemnification
+
+You agree to indemnify, defend and hold harmless Interaxon Parties against all claims, demands, causes of action, losses, expenses, damages and costs (including any reasonable attorneys’ fees), resulting or arising from or relating to your use of the Software, any activity related to your account by you or any other person permitted by you, your breach of the Terms, your infringement or violation of any rights of another, or termination and/or cancellation of your access to the Software. We reserve the right to assume, the exclusive defense and control of any such claim or action and all negotiations for settlement or compromise, and you agree to fully cooperate with us in the defense of any such claim, action, settlement or compromise negotiations, as requested by us.
+
+
+    8.  TERMINATION AND/OR CANCELLATION
+
+    8.1. Term
+
+Subject to earlier termination and/or cancellation  in accordance with the Terms, the Terms will continue for the initial term as specified in the applicable form of invoice or subscription order (“Initial Term”) and unless otherwise specified in the applicable invoice or subscription order, the Terms will be automatically renewed for additional periods of the same duration as the Initial Term, on the same terms and conditions as the Terms, except for any changes to fees, unless either Party terminates and/or cancels the Terms prior to the end of the then-current term. The Initial Term and any subsequent renewals will collectively be referred to as the “Term”. 
+
+    8.2. Termination and/or Cancellation
+
+We can terminate and/or cancel the Terms and your access and use of the Software at any time, without penalty, with or without cause, and with or without notice. We reserve the right to modify, suspend, or end all or any part of the services at any time, without penalty, with or without cause, and with or without notice. Upon termination and/or cancellation of the Terms, you agree to cease accessing and using the Software. For clarity, if you are participating in a trial, the first day of your Initial Term will start on the first day following the end of the Trial Period.
+
+   8.3. Effect of Expiration or Termination and/or Cancellation
+
+Upon expiration or earlier termination and/or cancellation of the Terms, unless otherwise specified in the Terms, all rights granted to each Party herein shall forthwith revert to the granting Party, including, but not limited, to the license, with the following consequences:
+
+       (a) Any compensation accrued but not paid will become immediately due and payable.
+       (b) Upon termination and/or cancellation of the Terms, your right to access and use the Software shall immediately terminate and/or cancel, you shall immediately cease all use of the Software, and you shall destroy or return to us and make no further use of any proprietary materials, or other items (and all copies thereof) belonging to us. All sections of the Terms which by their nature should survive termination and/or cancellation will survive termination and/or cancellation, including, without limitation, accrued rights to payment, confidentiality obligations, governing law, disclaimers, and limitations of liability. Further, you will have no right to receive any refund of any prepaid amounts if you terminate and/or cancel during the Term or if we terminate and/or cancel for cause.
+
+   8.4 Payments Due before Termination and/or Cancellation
+
+Payments due before the termination and/or cancellation of the Terms will still be payable by you at the time of such termination and/or cancellation. In addition if you breach any of the Terms, including without limitation, failing to pay any sum that is due, in addition to any other remedies, you will reimburse us for all attorneys’ fees, court, collection, and other costs incurred by us in the enforcement of our rights under the Terms.
+
+   9.  MISCELLANEOUS
+
+   9.1. Notice
+
+All notices, requests, demands, approvals, requests for approvals or other communications under the Terms shall be in writing. Notice will be sufficiently given for all purposes as follows: (i) upon delivery when personally delivered to the recipient, (ii) upon receipt when mailed by certified mail, return receipt requested if confirmed by return receipt, (iii) upon delivery when delivered by Federal Express or other recognized international overnight courier, and (iv) upon receipt when sent by fax with confirmation, provided, however, that it shall be deemed delivered the next business day if sent on a non-business day or after 5pm Toronto, Ontario time on a business day. Notwithstanding anything to the contrary, notice will be sufficiently given to you, if provided by us to you via any email address provided to us or through the Software. Addresses for the purpose of giving notice may be set forth on the applicable form of invoice or subscription order. Copies of any notice given by you to us must also be delivered to: Interaxon Inc. Attention Legal Department, Suite 303, 511 King Street West, Toronto, Ontario, Canada M5V 1K4. A party’s address for notice may be changed by that party providing notice to the other party in accordance with this Section 9.1. 
+
+   9.2. Merger/Modification
+
+Each Party acknowledges that it has read the Terms, it understands them, and agrees to be bound by them, and further agrees that this is the complete and exclusive statement of the Terms between the Parties, which supersedes and merges all prior proposals, understandings and all other agreements, oral and written, between the Parties relating to the Terms. The Terms may not be modified or altered except by written instrument duly executed by both Parties. Further, we are not, and will not be, bound by any provision of your purchase order, correspondence, or otherwise. 
+
+   9.3. Limitations on Use
+
+We may impose certain limitations on the use of the Software, including, but not limited to, restricting the number of accounts you may register. You agree to use the Software only for purposes as permitted by the Terms and any applicable law, regulation, or generally accepted practice in the applicable jurisdiction. We reserve the right to modify or impose any limitations on the use of the Software at any time, with or without notice to you.
+
+   9.4. Governing Law
+
+The Terms shall be governed by and interpreted in accordance with the laws of the Province of Ontario.  Parties agree that any litigation arising out of or related to the Terms must be brought in a provincial or federal court located in Toronto, Ontario as the exclusive and mandatory venue and jurisdiction for any litigation arising out of or related to the Terms. No action arising out of the Terms or your use of the Software, regardless of form or the basis of the claim, may be brought by you more than one (1) year after the cause of action has arisen (or if multiple causes, from the date the first such cause arose).
+
+   9.5. Severability
+
+If any provision of the Terms is invalid under any applicable statute or rule of law, it is to that extent to be deemed omitted and all other terms and provisions of the Terms shall nevertheless remain in full force and effect so long as the economic or legal substance of the transactions contemplated hereby is not affected in any manner materially adverse to any Party. Upon such determination that any term or other provision is invalid, illegal or incapable of being enforced, the Parties shall negotiate in good faith to modify the Terms so as to effectuate the original intent of the Parties as closely as possible in an acceptable manner in order that the transactions contemplated hereby are consummated as originally contemplated to the greatest extent possible.
+
+   9.6. Assignment by Us
+
+We may assign the Terms in whole or in part.
+
+   9.7. Assignment by You
+
+You may not assign the Terms in whole or in part.
+
+   9.8. Waiver
+
+A waiver by either Party of any terms or conditions of the Terms in any instance shall not be deemed or construed to be a waiver of such term or condition for the future, or of any subsequent breach thereof.  All remedies, rights, undertakings, obligations and agreements contained in the Terms shall be cumulative, and none of them shall be in limitation of any other remedy, right, undertaking, obligation or agreement of either Party. 
+
+   9.9. Relationship of Parties
+
+The Parties are not employees, agents, partners or joint venturers of each other. Neither Party shall have the right to enter into any agreement on behalf of the other.
+
+   9.10. Headings and Titles
+
+The headings and titles of the Terms are not part of the Terms, but are for convenience only and are not intended to define, limit or construe the contents of the various sections.
+
+   9.11. Entire Terms
+
+The entire understanding between the Parties hereto relating to the subject matter hereof is contained herein and the Parties make no warranties, representations or undertakings hereto except as expressly provided herein. 
+
+   9.12. English Only
+
+It is the express wish of the parties that the Terms and all related documents have been drawn up in English. C’est la volonté expresse des parties que la présente convention ainsi que les documents qui s’y rattachent soient rédigés en anglais.
+
+   9.13. Survival 
+
+Notwithstanding any termination, cancellation or expiration of the Terms, the provisions hereof that are intended to continue and survive, shall continue and survive, including, but not limited to Sections 4, 5, 6, 7, and 9.
+
+   9.14. Expenses
+
+Except as otherwise specified in the Terms, all costs and expenses, including fees and disbursements of counsel, financial advisors and accountants, incurred in connection with the Terms and the transactions contemplated in the Terms shall be paid by the Party incurring such costs and expenses. 
+
+
+ 
+ 
+Research Tools Terms of Service
